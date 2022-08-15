@@ -84,6 +84,4 @@ Blocker 개발의 속도가 더디거나, 해결해야하는 문제들을 가리
 
 - Front-End : HTML, Styled-Component , React , React Router
 
-## 구현 기능
 
-- 각자 작성
