@@ -1,8 +1,7 @@
 ## 데모 영상
 
-👉 [영상 보러가기](https://www.youtube.com/)
+👉 [영상 보러가기](https://www.notion.so/12c2ddc9e52d4f69875200a80454c78a
 
-- 영상 넣기
 
 ## 프로젝트 소개
 
